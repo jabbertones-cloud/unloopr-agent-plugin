@@ -1,0 +1,14 @@
+{
+  "name": "unloopr",
+  "version": "0.1.0",
+  "description": "Review AI-generated code for known failure patterns, diagnose changes and verify candidate repairs.",
+  "author": {
+    "name": "SMAT Designs"
+  },
+  "repository": "https://github.com/jabbertones-cloud/unloopr-agent-plugin",
+  "keywords": [
+    "unloopr",
+    "mcp",
+    "agent"
+  ]
+}

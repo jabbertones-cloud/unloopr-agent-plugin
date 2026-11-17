@@ -1,0 +1,10 @@
+{
+  "name": "unloopr",
+  "version": "0.1.0",
+  "description": "Review AI-generated code for known failure patterns, diagnose changes and verify candidate repairs.",
+  "mcpServers": {
+    "unloopr": {
+      "httpUrl": "https://mcp.unloopr.com/mcp"
+    }
+  }
+}

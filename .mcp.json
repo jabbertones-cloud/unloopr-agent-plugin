@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "unloopr": {
+      "type": "http",
+      "url": "https://mcp.unloopr.com/mcp",
+      "note": "Read the original code or diff before suggesting a change. Retrieve known failed-fix history and compare an actual failing baseline. Flag unsupported packages or secret-shaped literals, distinguish warnings fro"
+    }
+  }
+}
